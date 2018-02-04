@@ -1,0 +1,9 @@
+res/crawled_dir
+res/crawled_ids
+
+*.swp
+
+*.out
+*.o
+*.a
+*.so
